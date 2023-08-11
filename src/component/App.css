@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.tooltip-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.tooltip-button {
+  display: inline-block;
+  position: relative;
+  margin: 10px;
+}
+
+.tooltip {
+  display: none;
+}
+
+button {
+  margin-top: 100px;
+  padding: 10px;
+  cursor: pointer;
+}
